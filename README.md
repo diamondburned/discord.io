@@ -27,6 +27,9 @@ A small, single-file, fully featured [Discordapp](https://discordapp.com) librar
 **[Latest](https://github.com/izy521/discord.io)**
 `npm install izy521/discord.io`
 
+**[This Fork](https://github.com/Jonas1753/discord.io)**
+`npm install https://github.com/Jonas1753/discord.io/tarball/master`
+
 #### Example
 ```javascript
 var Discord = require('discord.io');
