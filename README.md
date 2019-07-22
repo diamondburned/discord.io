@@ -2,33 +2,11 @@
 <p align="center"><img src="http://i.imgur.com/kFzW7Uo.png"></p>
 <h1 align="center">discord.io</h1>
 
-A small, single-file, fully featured [Discordapp](https://discordapp.com) library for Node.js and browsers.
+A small, single-file, fully featured [Discordapp](https://discordapp.com) library for browsers.
 
-[![Discord](https://discordapp.com/api/guilds/66192955777486848/widget.png)](https://discord.gg/0MvHMfHcTKVVmIGP) [![NPM](https://img.shields.io/npm/v/discord.io.svg)](https://img.shields.io/npm/v/gh-badges.svg)
+# File modified to only support web browser!
 
-### Requirements
-**Required**:
-* **Node.js 0.10.x** or greater
-* **Web Browser** if not using Node.js
-
-**Optional**:
-* **Audio**
-    * **Node.js 0.12.x**
-    * **ffmpeg/avconv** (needs to be added to PATH)
-    
-### [Documentation / Gitbooks](https://izy521.gitbooks.io/discord-io/content/)
-
-### Getting Started:
-
-#### Installing
-**[Stable](https://www.npmjs.com/package/discord.io)**
-`npm install discord.io`
-
-**[Latest](https://github.com/izy521/discord.io)**
-`npm install izy521/discord.io`
-
-**[This Fork](https://github.com/Jonas1753/discord.io)**
-`npm install https://github.com/Jonas1753/discord.io/tarball/master`
+`npm install https://github.com/diamondburned/discord.io/tarball/master`
 
 #### Example
 ```javascript
